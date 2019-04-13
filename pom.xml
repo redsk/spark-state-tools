@@ -16,12 +16,11 @@
   ~ limitations under the License.
   -->
 
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.heartsavior.spark</groupId>
   <artifactId>spark-state-tools</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.2.0</version>
   <packaging>jar</packaging>
   <name>Spark State Tools</name>
   <description>State tools for Apache Spark which lets you play with states in your structured streaming queries.</description>
@@ -37,6 +36,7 @@
     <connection>scm:git:git:git@github.com:HeartSaVioR/spark-state-tools.git</connection>
     <url>https://github.com/HeartSaVioR/spark-state-tools</url>
     <developerConnection>scm:git:git@github.com:HeartSaVioR/spark-state-tools.git</developerConnection>
+    <tag>spark-state-tools-0.2.0</tag>
   </scm>
   <developers>
     <developer>

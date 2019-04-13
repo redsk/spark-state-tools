@@ -20,7 +20,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>net.heartsavior.spark</groupId>
   <artifactId>spark-state-tools</artifactId>
-  <version>0.2.0</version>
+  <version>0.2.1-SNAPSHOT</version>
   <packaging>jar</packaging>
   <name>Spark State Tools</name>
   <description>State tools for Apache Spark which lets you play with states in your structured streaming queries.</description>
@@ -36,7 +36,7 @@
     <connection>scm:git:git:git@github.com:HeartSaVioR/spark-state-tools.git</connection>
     <url>https://github.com/HeartSaVioR/spark-state-tools</url>
     <developerConnection>scm:git:git@github.com:HeartSaVioR/spark-state-tools.git</developerConnection>
-    <tag>spark-state-tools-0.2.0</tag>
+    <tag>HEAD</tag>
   </scm>
   <developers>
     <developer>
